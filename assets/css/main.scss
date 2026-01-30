@@ -1,0 +1,13 @@
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+// Warm brand palette
+$brand-primary: #C98A75;   // muted terracotta
+$brand-secondary: #EAD9C9; // warm beige
+$background-color: #FFFDFB;
+$text-color: #4A3A32;
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
