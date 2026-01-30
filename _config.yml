@@ -3,7 +3,7 @@ email: hello@michelleyangcoach.com
 description: "Life Coach for Communication & Authentic Expression"
 
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
