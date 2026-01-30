@@ -1,6 +1,6 @@
 title: "Michelle Yang Coaching"
-email: your-email@yourdomain.com
-description: "Life Coach for Communication & Inner Clarity"
+email: hello@michelleyangcoach.com
+description: "Life Coach for Communication & Authentic Expression"
 
 markdown: kramdown
 theme: minimal-mistakes-jekyll
@@ -16,7 +16,7 @@ exclude:
 # Author info
 author:
   name: "Michelle Yang"
-  bio: "Life Coach for Communication & Inner Clarity"
+  bio: "Life Coach for Communication & Authentic Expression"
   location: "Global"
   avatar: "/assets/images/michelle.jpg"
 
@@ -36,7 +36,7 @@ social:
   type: person
   name: Michelle Yang
   links:
-    - https://www.linkedin.com/
+    - https://www.linkedin.com/in/michelleyangbr
 
 # Layout defaults
 defaults:
