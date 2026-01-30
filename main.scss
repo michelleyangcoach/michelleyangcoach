@@ -1,0 +1,14 @@
+// Import theme
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+// Custom brand colors
+$brand-primary: #C98A75; // muted terracotta
+$brand-secondary: #EAD9C9; // warm beige
+$background-color: #FFFDFB; // cream
+$text-color: #4A3A32; // deep brown
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
